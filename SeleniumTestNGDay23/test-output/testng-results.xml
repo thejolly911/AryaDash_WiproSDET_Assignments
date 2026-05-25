@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-19T12:45:44 IST" name="Default suite" finished-at="2026-05-19T12:45:48 IST" duration-ms="4515">
+    <groups>
+    </groups>
+    <test started-at="2026-05-19T12:45:44 IST" name="Default test" finished-at="2026-05-19T12:45:48 IST" duration-ms="4515">
+      <class name="TestNgSeleniumDay23.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNgSeleniumDay23.LoginTest@408d971b]" started-at="2026-05-19T12:45:44 IST" name="setup" finished-at="2026-05-19T12:45:47 IST" duration-ms="3522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:TestNgSeleniumDay23.LoginTest@408d971b]" started-at="2026-05-19T12:45:47 IST" name="loginTest" finished-at="2026-05-19T12:45:48 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNgSeleniumDay23.LoginTest@408d971b]" started-at="2026-05-19T12:45:48 IST" name="tearDown" finished-at="2026-05-19T12:45:48 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNgSeleniumDay23.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
