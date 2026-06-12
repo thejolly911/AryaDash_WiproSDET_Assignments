@@ -128,6 +128,3 @@ This infrastructure functions primarily as a progressive architectural archive o
 * **Training Program:** Wipro Next-Gen Academic (NGA) Technical Track
 
 
-   git push origin main
-
-```
